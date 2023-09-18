@@ -6,9 +6,8 @@
 
 ### Ferramentas
 
->Terraform
->Python 
->DeltaLake
->Amazon Web Service 
- RDS MySql - EC2 - Labda - Glue - Athena - DynamoDB - S3 
-
+Terraform
+Python 
+DeltaLake
+Amazon Web Service 
+>RDS MySql - EC2 - Labda - Glue - Athena - DynamoDB - S3 
