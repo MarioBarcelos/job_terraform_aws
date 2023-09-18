@@ -1,4 +1,4 @@
-<img src="job_terraform_aws.pg">
+<img src="job_terraform_aws.png">
 
 ### Terraform com Amazon Web Service 
 
